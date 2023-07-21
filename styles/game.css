@@ -315,6 +315,10 @@ li a{
     }
     .game-icon{
         margin-top: 20px;
+        justify-content: center;
+    }
+    .title-icon{
+        width: 28%;
     }
     .nav{
         padding: 0;
